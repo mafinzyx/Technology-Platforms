@@ -3,7 +3,7 @@
 > 📚 *Java project using Maven and Git.*
 ### 🔗 **Contributors**
 
-[![GitHub - Danylo Zherzdiev](https://img.shields.io/badge/GitHub-Danylo_Zherzdiev-181717?style=for-the-badge&logo=github)](https://github.com/mafinzyx)   [![GitHub - Danylo Lohachov](https://img.shields.io/badge/GitHub-Danylo_Lohachov-181717?style=for-the-badge&logo=github)](https://github.com/eternaki)  [![GitHub - Mikita Kasiak](https://img.shields.io/badge/GitHub-Mikita_Kasiak-181717?style=for-the-badge&logo=github)]()
+[![GitHub - Danylo Zherzdiev](https://img.shields.io/badge/GitHub-Danylo_Zherzdiev-181717?style=for-the-badge&logo=github)](https://github.com/mafinzyx)   [![GitHub - Danylo Lohachov](https://img.shields.io/badge/GitHub-Danylo_Lohachov-181717?style=for-the-badge&logo=github)](https://github.com/eternaki)  [![GitHub - Mikita Kasiak](https://img.shields.io/badge/GitHub-Mikita_Kasiak-181717?style=for-the-badge&logo=github)](https://github.com/Nikitaksk)
 
 ---
 
